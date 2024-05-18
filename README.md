@@ -13,12 +13,12 @@ We'll analyze the company’s sales data for the fourth quarter across Australia
 - Data Visualization and
 - Report Generation
 - 
-Data Wrangling
-Ensure that the data is clean and that there is no missing or incorrect data. 
-Inspect the data manually for missing/incorrect data using the functions isna(), and notna().
-Based on your knowledge of Data Analytics, include your recommendations for treating missing data and incorrect data. (dropping the null values or filling them).
-Select an appropriate Data Wrangling approach —  data standardization or data normalization. Perform the standardization or normalization and present the data. (Normalization is the preferred approach for this problem.)
-Share your recommendation on the usage of the groupby() function for data chunking or merging.
+**Data Wrangling**
+1. We'll ensure that the data is clean and that there is no missing or incorrect data. 
+2. Inspect the data manually for missing/incorrect data using the functions isna(), and notna().
+3. Based on our knowledge of Data Analytics, include our recommendations for treating missing data and incorrect data. (dropping the null values or filling them).
+4. Select an appropriate Data Wrangling approach —  data standardization or data normalization. Perform the standardization or normalization and present the data. (Normalization is the preferred approach for this problem.)
+5. Share our recommendation on the usage of the groupby() function for data chunking or merging.
 Data Analysis
 Perform descriptive statistical analysis on the data (Sales and Unit columns) (Techniques such as mean, median, mode and standard deviation can be used.). 
 Determine which group is generating the highest sales, and which group is generating the lowest sales.
