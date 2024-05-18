@@ -7,12 +7,12 @@ Determine the states that are generating the highest revenues and
 Formulate sales programs for states with lower revenues. The Head of S&M has approached you for the same.
 Analyze the company’s sales data for the fourth quarter across Australia, and state by state and help the company make data-driven decisions for the coming year. 
 
-- ** We'll be Performing the following steps: **
-As a data scientist, you must perform the following main steps on the enclosed data.
-Data Wrangling
-Data Analysis
-Data Visualization and
-Report Generation
+** We'll be Performing the following steps:  As a data scientist, we'll perform the following main steps on the enclosed data.
+- Data Wrangling
+- Data Analysis
+- Data Visualization and
+- Report Generation
+- 
 Data Wrangling
 Ensure that the data is clean and that there is no missing or incorrect data. 
 Inspect the data manually for missing/incorrect data using the functions isna(), and notna().
